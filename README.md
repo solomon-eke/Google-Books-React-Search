@@ -21,7 +21,7 @@ A React-based application designed to search the Google Books API. The app utili
 ## Usage
 <p id='usage'></p>
 
-- Navigate to https://react-google-books-20.herokuapp.com/
+- Navigate to https://google-bks-search.herokuapp.com/
 - Search for a book by title or author
 - Click "View Book" to see the book on the the Google Books site
 - To save a book to your library, click the "Save" button
