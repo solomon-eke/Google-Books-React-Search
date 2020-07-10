@@ -6,8 +6,7 @@ A React-based application designed to search the Google Books API. The app utili
 1. [Technologies](#technologies)
 2. [Usage](#usage)
 3. [License](#license)
-4. [Contributing](#contributing)
-5. [Questions](#questions)
+
 
 ## Technologies
 <p id="technologies"></p>
@@ -36,19 +35,4 @@ A React-based application designed to search the Google Books API. The app utili
   
 - MIT License
 
-## Contributing
-<p id='contributing'></p>
 
-If you would like to contribute to this project you can:
-
-- Either fork or clone this repo (https://github.com/kayla8693/google-books-search)
-- Add any changes/upgrades you would like
-- Update the README with changes made, new technologies used, etc.
-- Create and submit a new pull request using https://github.com/kayla8693/google-books-search/compare
-
-## Questions
-<p id='questions'></p>
-
-If you have questions about this application, I can be contacted at :
-  
-kaylag044@gmail.com
